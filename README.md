@@ -1,4 +1,4 @@
-# Quake-Singleplayer-Map
+# Quake_SinglePlayerDesign_Skylab
 
 A single player quake level designed in the trenchbroom editor. 
 
